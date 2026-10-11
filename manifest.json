@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "product": "DriveDownloaderLite",
+  "channel": "stable",
+  "version": "1.1.1",
+  "url": "https://github.com/son107306/DriveDownloaderLite-Releases/releases/download/v1.1.1/DriveDownloaderLite_Portable_1.1.1.exe",
+  "sha256": "6cf982b78e890298b4ca39f499db6fea7b541ac87b48a7479dab2bb927737c6d",
+  "size": 137943054,
+  "notes": "Ban thu nghiem Auto Update V20 len V21",
+  "signature": "IqI9YSL+wtSsBgR8Q3P7FRfO0emBvLcAdX/NPM7VvOv/ovyopOGkGkBV8qhbnK9hte3DXzD6RU1qJa4LrOn2DA=="
+}
